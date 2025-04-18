@@ -1,0 +1,10 @@
+module.exports={
+    WINDOW_SIZE:15,
+    TIMEOUT_MS:500,
+    ENDPOINTS:{
+        p:"http://20.244.56.144/evaluation-service/primes",
+        f:"http://20.244.56.144/evaluation-service/fibo",
+        e:"http://20.244.56.144/evaluation-service/even",
+        r:"http://20.244.56.144/evaluation-service/rand",
+    }
+}
